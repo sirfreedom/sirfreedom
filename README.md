@@ -28,7 +28,9 @@ Me apasiona el trabajo colaborativo en entornos ágiles y compartir conocimiento
 ![html5](https://img.shields.io/badge/-html5-ED8B00?style=flat&logo=html5&logoColor=ffff)
 ![Sass](https://img.shields.io/badge/-sass-ED8B00?style=flat&logo=sass&logoColor=ffff)
 ![MongoDB](https://img.shields.io/badge/-mongodb-ED8B00?style=flat&logo=mongodb&logoColor=ffff)
-<br>
+![C++](https://img.shields.io/badge/-c++-ED8B00?style=flat&logo=C++&logoColor=ffff)
+![Android](https://img.shields.io/badge/-android-ED8B00?style=flat&logo=android&logoColor=ffff)
+![Jquery](https://img.shields.io/badge/-jquery-ED8B00?style=flat&logo=Jquery&logoColor=fffff)
 <br>
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=fff)
 <br>
@@ -45,12 +47,10 @@ Me apasiona el trabajo colaborativo en entornos ágiles y compartir conocimiento
 * Ingenieria en Firmware con Arduino / Domotica / Electronica / Arduino / C / C++
 * React version 16.8.0 / 17 / 18.0.2 / 
 * Windows Server 2008-2016 / Configuración IIS / Linux Mint
-<br>
 <h3 align="center">📫 Contacto:</h3>
-    <p align="center">
-      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alemillan22@gmail.com&su=Contacto%20desde%20GitHub%20- &body=Hola%20Alejandro,%20vi%20tu%20perfil%20en%20GitHub%20y%20me%20gustaría%20saber%20más%20sobre%20tus%20servicios%20y/o%20pactar%20una%20meet." target="_blank">
+<p align="center">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=alemillan22@gmail.com&su=Contacto%20desde%20GitHub%20- &body=Hola%20Alejandro,%20vi%20tu%20perfil%20en%20GitHub%20y%20me%20gustaría%20saber%20más%20sobre%20tus%20servicios%20y/o%20pactar%20una%20meet." target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" alt="Enviar correo con Gmail"></a>
-        &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/appmaker" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white&padding=5px"></a>
-    </p>
+<a href="https://linkedin.com/in/appmaker" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white&padding=5px"></a>
+</p>
 </div> 
