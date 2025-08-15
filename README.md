@@ -6,12 +6,21 @@
     </div>
     Los repositorios que ves a continuacion, son basicamente DE PRUEBAS, no puedo exponer repos de clientes aqui, permanecen PRIVADOS, por una cuestion de seguridad y privacidad de los mismos.
     se preguntaran porque figura en mi cv, esto ?
-    aqui podes encontrar algun trabajos practicos que he hecho en la universidad, pruebas de codigo que realizo habitualmente antes de que las deje productivas, y resultan utiles 
-    poder ver este codigo para que veas como programo y que hago, o hice.
-    - Un Ajedrez utilizando el algoritmo MINMAX
-    - Una WebApi RestFull con Claims de roles, hecha con SWAGGER y autenticacion.
-    - Una web en react para render el examen de ciudadania espanola que utiliza la api, no con todos los abms pero se puede ver ya que ahi realizo muchas pruebas.
-    - Una web de perros donde pruebo controles como ReactUI, MaterialUI, y demas.
+    aqui podes encontrar algun trabajos practicos que he hecho en la universidad, pruebas de codigo que realizo habitualmente antes de que las deje productivas, y resultan utiles, poder ver este codigo para que veas como programo y que hago, o hice.
+    <ul>
+        <li>
+              Un Ajedrez utilizando el algoritmo MINMAX
+        </li>
+        <li>
+             Una WebApi RestFull con Claims de roles, hecha con SWAGGER y autenticacion.
+        </li>
+        <li>
+             Una web en react para render el examen de ciudadania espanola que utiliza la api, no con todos los abms pero se puede ver ya que ahi realizo muchas                 pruebas.
+        </li>
+         <li>
+             Una web de perros donde pruebo controles como ReactUI, MaterialUI, y demas.
+        </li>
+    </ul>
 </h3>
 <h5>
     Desde el 2004 trabajó cómo desarrollador, y he alcanzado puestos cómo ayudante de arquitectura, y líder tecnico, en este último tiempo, con las tecnologías qué figuran aqui
