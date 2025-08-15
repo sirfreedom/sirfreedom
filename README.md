@@ -1,10 +1,19 @@
 <h1 align="center">#Hola! ¿Cómo estás?👋 </h1>
 <h2 align="center" > Bienvenido al repo de Ing. Alejandro Millan </h2>
-<div align="center">
-Desde el 2004 trabajó cómo desarrollador, y he alcanzado puestos cómo ayudante de arquitectura, y líder tecnico, en este último tiempo, con las tecnologías qué figuran en mi cv.
+<h3>
+    <div align="center">
+        IMPORTANTE !    
+    </div>
+    Los repositorios que ves a continuacion, son basicamente DE PRUEBAS, no puedo exponer repos de clientes aqui, por una cuestion de seguridad y privacidad de los mismos.
+    se preguntaran porque figura en mi cv, esto ?
+    aqui podes encontrar algun trabajo practico que he hecho en la universidad, pruebas de codigo que realizo habitualmente antes de que las deje productivas, y resulta util 
+    poder ver este codigo para que veas como programo y que hago, o hice.
+</h3>
+<h4>
+    Desde el 2004 trabajó cómo desarrollador, y he alcanzado puestos cómo ayudante de arquitectura, y líder tecnico, en este último tiempo, con las tecnologías qué figuran aqui
 Los rubros más destacables en mi trayectoria son Transporte, bancos, Alimentos, Juegos, Envío de mensajes, y gestión de edificios.
 Me apasiona el trabajo colaborativo en entornos ágiles y compartir conocimientos sobre buenas prácticas.
-</div>
+</h4>
 <div align="center">
 <br>
     <p>
