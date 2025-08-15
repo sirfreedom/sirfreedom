@@ -4,9 +4,12 @@
     <div align="center">
         IMPORTANTE !    
     </div>
+    <div>
     Los repositorios que ves a continuacion, son basicamente DE PRUEBAS, no puedo exponer repos de clientes aqui, permanecen PRIVADOS, por una cuestion de seguridad y privacidad de los mismos.
     se preguntaran porque figura en mi cv, esto ?
     aqui podes encontrar algun trabajos practicos que he hecho en la universidad, pruebas de codigo que realizo habitualmente antes de que las deje productivas, y resultan utiles, poder ver este codigo para que veas como programo y que hago, o hice.
+    </div>
+    <br>
     <ul>
         <li>
               Un Ajedrez utilizando el algoritmo MINMAX
