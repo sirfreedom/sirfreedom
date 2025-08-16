@@ -17,21 +17,21 @@
                <br>
                una grilla para react totalmente configurable, exporta a pdf, pagina, y ordena.
               <br>
-              <a href="rgrid.vercel.app/" > Deployado aqui rgrid.vercel.app/ </a>
+              <a href="http://rgrid.vercel.app/" target="_blank" > Deployado aqui rgrid.vercel.app/ </a>
         </li>
         <li>
             WEBAPI : 
             <br>
             Una WebApi RestFull con Claims de roles, hecha con SWAGGER y autenticacion.
             <br>
-             <a href="sirfreedom.somee.com/index.html" > Deployado aqui sirfreedom.somee.com/index.html </a>
+             <a href="http://sirfreedom.somee.com/index.html" target="_blank" > Deployado aqui sirfreedom.somee.com/index.html </a>
         </li>
         <li>
             TESTSPAINCITIZEN : 
             <br>
             Una web en react para render el examen de ciudadania espanola que utiliza la api, NO con todos los abms pero se puede ver ya que ahi realizo muchas pruebas de controles
             <br>
-             <a href="testspaincitizen.vercel.app/" >  Deployado aqui testspaincitizen.vercel.app/ </a>
+             <a href="http://testspaincitizen.vercel.app/" target="_blank" >  Deployado aqui testspaincitizen.vercel.app/ </a>
         </li>
         <li>
             Ajedrez :
