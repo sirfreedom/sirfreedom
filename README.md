@@ -1,3 +1,4 @@
+
 <h1 align="center">#Hola! ¿Cómo estás?👋 </h1>
 <h2 align="center" > Bienvenido al repo de Ing. Alejandro Millan </h2>
 <h4>
@@ -12,22 +13,37 @@
     <br>
     <ul>
        <li>
-              RGRID : una grilla para react totalmente configurable, exporta a pdf, pagina, y ordena.
-              Deployado aqui rgrid.vercel.app/
+              RGRID : 
+               <br>
+               una grilla para react totalmente configurable, exporta a pdf, pagina, y ordena.
+              <br>
+              <a href="rgrid.vercel.app/" > Deployado aqui rgrid.vercel.app/ </a>
         </li>
         <li>
-             WEBAPI : Una WebApi RestFull con Claims de roles, hecha con SWAGGER y autenticacion.
-             Deployado aqui sirfreedom.somee.com/index.html
+            WEBAPI : 
+            <br>
+            Una WebApi RestFull con Claims de roles, hecha con SWAGGER y autenticacion.
+            <br>
+             <a href="sirfreedom.somee.com/index.html" > Deployado aqui sirfreedom.somee.com/index.html </a>
         </li>
         <li>
-             TESTSPAINCITIZEN : Una web en react para render el examen de ciudadania espanola que utiliza la api, NO con todos los abms pero se puede ver ya que ahi realizo muchas pruebas de controles
-             Deployado aqui testspaincitizen.vercel.app/
+            TESTSPAINCITIZEN : 
+            <br>
+            Una web en react para render el examen de ciudadania espanola que utiliza la api, NO con todos los abms pero se puede ver ya que ahi realizo muchas pruebas de controles
+            <br>
+             <a href="testspaincitizen.vercel.app/" >  Deployado aqui testspaincitizen.vercel.app/ </a>
         </li>
          <li>
+             DogTest : 
+             <br>
              Una web de perros donde pruebo controles como ReactUI, MaterialUI, y demas.
+             <br>
+             <a href="dogpagetest.vercel.app"> deployado aqui dogpagetest.vercel.app </a>
         </li>
         <li>
-              Un Ajedrez utilizando el algoritmo MINMAX en winform TOTALMENTE JUGABLE. si le ganas avisame.
+            Ajedrez :
+            <br>
+             Un Ajedrez utilizando el algoritmo MINMAX en winform TOTALMENTE JUGABLE. si le ganas avisame.
         </li>
     </ul>
 </h3>
