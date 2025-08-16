@@ -11,17 +11,23 @@
     </div>
     <br>
     <ul>
-        <li>
-              Un Ajedrez utilizando el algoritmo MINMAX
+       <li>
+              RGRID : una grilla para react totalmente configurable, exporta a pdf, pagina, y ordena.
+              Deployado aqui rgrid.vercel.app/
         </li>
         <li>
-             Una WebApi RestFull con Claims de roles, hecha con SWAGGER y autenticacion.
+             WEBAPI : Una WebApi RestFull con Claims de roles, hecha con SWAGGER y autenticacion.
+             Deployado aqui sirfreedom.somee.com/index.html
         </li>
         <li>
-             Una web en react para render el examen de ciudadania espanola que utiliza la api, no con todos los abms pero se puede ver ya que ahi realizo muchas                 pruebas.
+             TESTSPAINCITIZEN : Una web en react para render el examen de ciudadania espanola que utiliza la api, NO con todos los abms pero se puede ver ya que ahi realizo muchas pruebas de controles
+             Deployado aqui testspaincitizen.vercel.app/
         </li>
          <li>
              Una web de perros donde pruebo controles como ReactUI, MaterialUI, y demas.
+        </li>
+        <li>
+              Un Ajedrez utilizando el algoritmo MINMAX en winform TOTALMENTE JUGABLE. si le ganas avisame.
         </li>
     </ul>
 </h3>
