@@ -33,13 +33,6 @@
             <br>
              <a href="testspaincitizen.vercel.app/" >  Deployado aqui testspaincitizen.vercel.app/ </a>
         </li>
-         <li>
-             DogTest : 
-             <br>
-             Una web de perros donde pruebo controles como ReactUI, MaterialUI, y demas.
-             <br>
-             <a href="dogpagetest.vercel.app"> deployado aqui dogpagetest.vercel.app </a>
-        </li>
         <li>
             Ajedrez :
             <br>
