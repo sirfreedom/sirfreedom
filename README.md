@@ -43,7 +43,10 @@
 <h5>
     Desde el 2004 trabajó cómo desarrollador, y he alcanzado puestos cómo ayudante de arquitectura, y líder tecnico, en este último tiempo, con las tecnologías qué figuran aqui
 Los rubros más destacables en mi trayectoria son Transporte, bancos, Alimentos, Juegos, Envío de mensajes, y gestión de edificios.
-Me apasiona el trabajo colaborativo en entornos ágiles y compartir conocimientos sobre buenas prácticas.
+Me apasiona el trabajo colaborativo en entornos ágiles y compartir conocimientos sobre buenas prácticas, tambien puedo comentarles que he sido profesor universitario de la Universidad de Palermo, 
+    De EducacionIT y he dado materias como Diseño de sistemas, Base de datos, programacion para iniciantes, y .net.
+    mis patrones de diseño favoritos son. 
+    Repository, Observer, Adapter, Factory, Decorator, y conceptos SOLID
 </h4>
 <div align="center">
 <br>
