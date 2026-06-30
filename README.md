@@ -78,19 +78,36 @@ Me apasiona el trabajo colaborativo en entornos ágiles y compartir conocimiento
 <br>
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=fff)
 <br>
-* Visual Studio .Net 2 / 3.0 → 4.8 / 6 / 7 / .Net Core 3.1 / Mvc Razor / C# 
-* AZURE Curso Az-900 / Experiencia en PaaS ( Platform As Service ) y gestion en Azure/TFS 
-* Microsoft Message Queue es muy similar a kafca o rabbit
-* html4 / html5 / Css3 / Css5 / Bootstrap / Material UI / Javascript / Jquery
-* Unit Test xUnit TDD / Hexagonal Arquitecture / DDD / SOLID / Clean Code
-* WCF / Core WCF / Web Api Rest / Swagger / WebService / Json / validacion CORS
-* Entity Framework / nHibernate / CodeSmith / LinQ to Entity or Sql
-* Sql Server 2000/2005/2008 → 2019 Cloud / Oracle 8 → 18 PL Sql (Procedures, triggers)
-* Java / Aplet / Serlet / Swing Application / JavaServerPages / Android Native
-* Automatización con Selenium / HtmlDocument / HtmlWeb / Selenium.Chrome / Figma 
+Social Skills
+ Autodidacta - Trabajo en equipo -  Scrum  - Asertividad  - Cooperación
+ Resolución de conflictos - Negociador - Empatía  - Comunicador nato
+ <br>
+- Technical BackEnd Skills
+* Vb .Net / C# / .NET (Desde v1.0 hasta .NET 9) 
+* Microsoft Message Queue / kafka
+* WCF / RESTful Api / Swagger / WebService , JWT , OAuth 2.0 gRPC , validacion CORS 
+* Microservicios patrón SAGA y CQRS , Minimal APIs 
+* Sql Server 2000 → 2019 Cloud / Oracle 10 → 18 PL Sql
+* Integraciones y deploy en Azure en Git CI/CD
+* MongoDB, Cassandra, MySql, GraphQL , PostgreSQL
+* Node.js / Express.js 
+* Java / Android Native
+* Visual Basic 6 
+* Entity Framework / ADO net /nHibernate / LinQ to Entity o Sql
 * Ingenieria en Firmware con Arduino / Domotica / Electronica / Arduino / C / C++
-* React version 16.8.0 / 17 / 18.0.2 / 
-* Windows Server 2008-2016 / Configuración IIS / Linux Mint
+- Technical FrontEnd Skills
+* React (v16 a v19)  Zustand  / npm / pnpm  /nvm / TypeScript / Next.js 15.5  / Angular 20
+* ASP.NET / MVC net
+* html4 / html5 / Css3 / Css5 / Sass / Bootstrap / Material UI / Javascript / Jquery
+- Technical Devops & Management Skills
+* AZURE Curso Az-900 Conocimientos de IaaS / Experiencia en PaaS 
+* Enterprise Arquitect / Jira / UML / Scrum, Agile
+* Pipelines Azure / Azure / github, gitlab  / Configuración de Docker 
+* VisualStudio Code
+* Unit Test xUnit TDD / Hexagonal Arquitecture / Value Object / DDD / SOLID / Clean Code
+* Automatización con Selenium / HtmlDocument / HtmlWeb / Figma 
+* Windows Server 2008-2016 → Azure Devops / Contenedores Docker / Linux 
+<br>
 <h3 align="center">📫 Contacto:</h3>
 <p align="center">
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alemillan22@gmail.com&su=Contacto%20desde%20GitHub%20- &body=Hola%20Alejandro,%20vi%20tu%20perfil%20en%20GitHub%20y%20me%20gustaría%20saber%20más%20sobre%20tus%20servicios%20y/o%20pactar%20una%20meet." target="_blank">
