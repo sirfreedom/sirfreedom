@@ -1,8 +1,4 @@
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Habilidades Profesionales</title>
- <h1 align="center">#Hola! ¿Cómo estás?👋 </h1>
+<h1 align="center">#Hola! ¿Cómo estás?👋 </h1>
 <h2 align="center" > Bienvenido al repo de Ing. Alejandro Millan 
 </h2>
 <h4>
